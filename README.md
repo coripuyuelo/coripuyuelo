@@ -16,19 +16,19 @@ Argentina, vivo en Capital Federal, Buenos Aires.
 - **Otros:** Web Scraping, Qlik Management Console, Control de accesos y políticas de seguridad  
 
 ### Metodologías de Gestión
-- Metodologías ágiles (Scrum, Kanban)  
-- Liderazgo, gestión y coordinación de equipos  
-- Gestión de proyectos de BI y Data Governance  
-- Optimización de arquitectura y flujos de datos  
-- Definición de métricas y KPIs para negocio y producto  
+- Metodologías ágiles (**Scrum, Kanban**)  
+- **Liderazgo**, gestión y coordinación de equipos  
+- **Gestión de proyectos** de BI y **Data Governance**  
+- **Optimización de arquitectura** y flujos de datos  
+- **Definición de métricas y KPIs** para negocio y producto  
 - Coordinación técnica y funcional con áreas de negocio  
-- Implementación de buenas prácticas y estándares de datos  
-- Capacitación técnica a equipos internos y clientes  
+- Implementación de buenas prácticas y **estándares de datos**  
+- **Capacitación** técnica a equipos internos y clientes  
 
 ### Educación
 - **Maestría en Ciencia de Datos** – Universidad Austral (2022–2024)  
 - **Diplomatura en Mercado de Capitales** – Universidad Austral (2023)  
 - **Diplomatura en Data Mining** – UTN FRBA (2016)  
-- Formación en QlikView / Qlik Sense, SAS, Python y visualización de datos (2014–2019)  
-- Formación en Oracle, DW, ETLs, PL/SQL y Seguridad Informática (2005–2010)  
+- **Formación en QlikView / Qlik Sense, SAS, Python** y visualización de datos (2014–2019)  
+- **Formación en Oracle, DW, ETLs, PL/SQL y Seguridad Informática** (2005–2010)  
 - **Ingeniería en Sistemas de Información** – UTN FRBA (cursado hasta 3er año)
