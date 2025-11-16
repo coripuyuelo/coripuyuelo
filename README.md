@@ -6,7 +6,7 @@ Argentina, vivo en Capital Federal, Buenos Aires.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/coripuyuelo) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coripuyuelo@gmail.com)
 
 ### Skills Técnicos
-- **Lenguajes y Librerías:** SQL, Python, Solidity, HTML, CSS.
+- **Lenguajes:** SQL, Python, Solidity, HTML, CSS.
 - **BI / Visualización:** QlikView, Qlik Sense, Tableau, Power BI, MicroStrategy  
 - **ETL y Procesamiento de Datos:** PL/SQL, Transact-SQL, SQL Server Integration Services (SSIS), Qlik scripting, SAS Base.
 - **Cloud y Plataformas:** AWS, Google Cloud Platform (GCP)  
