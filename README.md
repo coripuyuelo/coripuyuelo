@@ -1,4 +1,4 @@
-# C O R I N A  P U Y U E L O
+# C O R I N A   P U Y U E L O
 ## Data Lead - Data Engineer
 Profesional en **Data Analytics & Business Intelligence** con más de 15 años de experiencia en arquitectura de datos, desarrollo de ETLs, modelado y visualización en entornos corporativos y startups. Experta en implementación de soluciones de análisis en **Qlik Sense, Tableau, Power BI** y ecosistemas **AWS, GCP y Oracle**. Amplia trayectoria liderando equipos multidisciplinarios, optimizando procesos y aplicando **metodologías ágiles**. Experiencia internacional en proyectos para los sectores financiero, e-commerce, telecomunicaciones y retail.
 
